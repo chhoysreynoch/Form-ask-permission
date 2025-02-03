@@ -8,6 +8,7 @@
 </head>
 <body>
     <form action="">
+        Name : <input type= "text" name= "txtname"/> <br>
         
     </form>
 </body>
